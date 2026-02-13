@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Chat, how we feeling?</h1>
+    <section>
+        <a href="option.html">Pretty good. I could socialize and be okay with life.</a>
+    </section>
+    <section>
+        <a href="option1.html">Neutral. Mid all around, just another day.</a>
+    </section>
+        <section>
+        <a href="option2.html">Honestly, pretty shitty. I'd rather not.</a>
+    </section>
+    <section>
+        <a href="option3.html">...aaaaaaAAAAAAAAAHHHHHHHHHHHHH- (crashes out)</a>
+    </section>
+</body>
+</html>
