@@ -1,1 +1,12 @@
+body {
+  background-color: #222;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center; 
+  padding-top: 50px;
+        }
 
+h1  {
+  animation: floating 3s infinite ease-in-out;
+  margin-bottom: 40px;
+}
