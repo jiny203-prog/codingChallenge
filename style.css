@@ -9,4 +9,13 @@ body {
 h1  {
   animation: floating 3s infinite ease-in-out;
   margin-bottom: 40px;
+  transform: scale (200px);
+  transform: skewX (10deg);
 }
+
+@media print {
+  body {
+    background: white;
+    color: dark blue;
+}
+
